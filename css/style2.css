@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0; 
+	font-family: Century Gothic;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../new.jpg);
+	height: 100vh;
+	width: 212.6h;
+	#margin-top: -20px;
+	background-size: cover;
+	background-position: centre;
+}
+ .form-horizontal{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background-color: #4682B4;
+	border: 3px solid #fff;
+ }
+  .logo img{
+	float: left;
+	width: 150px;
+	height: 200px;
+}
+h1{
+	 color: #fff;
+	 font-size: 40px;
+	 font-weight:bold;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 10%;
+	 left: 50%;
+	 transform: translate(-50%,-50%);
+	 #background-color: #4682B4;
+	 #border: 3px solid #fff;
+ }
+ h2{
+	 color: #fff;
+	 font-size: 40px;
+	 font-weight:bold;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 18%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+	 #background-color: #4682B4;
+	 #border: 3px solid #fff;
+ }
+ 
+.main2{
+	 color: #fff;
+	 font-size: 20px;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 50%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+ }
+  a{
+	 color: #fff;
+	 font-size: 15px;
+	 #font-weight:bold;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 110%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+	 background-color: #4682B4;
+	 border: 3px solid #fff;
+ }

@@ -1,0 +1,22 @@
+<?php
+
+include "db_connect.php";
+$enrollform = $_GET["enrollment"];
+
+
+//Search the database for a particular enrollment no.
+echo "<h2>Cadet details with enrollment no. $enrollform </h2>";
+$sql = "SELECT Enrollment,Name,Sex,Year,Attendance,DOB FROM cadet where Enrollment=$enrollform";
+$result = $mysqli->query($sql);
+
+if ($result->num_rows > 0) {
+    // output data of each row
+    while($row = $result->fetch_assoc()) {
+        echo " " . $row["Enrollment"]. " " . $row["Name"]. " " . $row["Sex"]." " . $row["Year"]." " . $row["Attendance"]." " . $row["DOB"]. "<br>";
+    }
+} else {
+    echo "0 results";
+}
+
+
+?>

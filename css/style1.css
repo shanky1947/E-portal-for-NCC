@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0; 
+	font-family: Century Gothic;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../new.jpg);
+	height: 100vh;
+	width: 212.6h;
+	#margin-top: -20px;
+	background-size: cover;
+	background-position: centre;
+}
+
+.cadet{
+	 color: #fff;
+	 font-size: 20px;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 40%;
+	 left: 40%;
+	 transform: translate(-50%,-50%);
+	 #width: 300px;
+     #height: 150px;
+     #padding: 20px;
+	 #background-color: #4682B4;
+     #border: 3px solid #fff;
+ }
+
+.tit h1{
+	 color: #fff;
+	 font-size: 70px;
+	 font-weight:bold;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 10%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+	# background-color: #4682B4;
+	# border: 3px solid #fff;
+ }
+ 
+ .tit h2{
+	 color: #fff;
+	 font-size: 40px;
+	 #font-weight:bold;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 22%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+ }
+ 
+ .logo img{
+	float: left;
+	width: 150px;
+	height: 200px;
+}
+
+.ano{
+	 color: #fff;
+	 font-size: 20px;
+	 font-weight:bold;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 55%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+ }
+.cqms{
+	 color: #fff;
+	 font-size: 20px;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 20%;
+	 left: 50%;
+	 transform: translate(-50%,-50%);
+ }
+ .lcpl{
+	 color: #fff;
+	 font-size: 20px;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 20%;
+	 left: 50%;
+	 transform: translate(-50%,-50%);
+ }
+ .sgt{
+	 color: #fff;
+	 font-size: 20px;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 20%;
+	 left: 50%;
+	 transform: translate(-50%,-50%);
+ }
+ 
+ a{
+	 color: #fff;
+	 font-size: 15px;
+	 #font-weight:bold;
+	 font-style: italic;
+	 font-family: Sans-serif;
+	 position: absolute;
+	 top: 110%;
+	 left: 45%;
+	 transform: translate(-50%,-50%);
+	 background-color: #4682B4;
+	 border: 3px solid #fff;
+ }
