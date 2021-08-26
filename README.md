@@ -12,11 +12,11 @@
          alt="HTML">
   </a>
   <a href="">
-    <img src="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/uses-css.svg"
+    <img src="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/uses-php.svg"
          alt="CSS">
   </a>
   <a href="">
-    <img src="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/uses-php.svg"
+    <img src="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/uses-css.svg"
          alt="Git">
   </a>
     <a href="">
