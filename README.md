@@ -15,7 +15,7 @@
     <img src="https://forthebadge.com/images/badges/uses-css.svg"
          alt="CSS">
   </a>
-  <a href="">
+  <a href="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/uses-php.svg">
     <img src=""
          alt="Git">
   </a>
