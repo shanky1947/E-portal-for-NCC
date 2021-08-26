@@ -12,7 +12,7 @@
          alt="HTML">
   </a>
   <a href="">
-    <img src="https://forthebadge.com/images/badges/uses-css.svg"
+    <img src="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/uses-css.svg"
          alt="CSS">
   </a>
   <a href="">
@@ -20,7 +20,7 @@
          alt="Git">
   </a>
     <a href="">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg"
+    <img src="https://github.com/shanky1947/E-portal-for-NCC/blob/master/badges/built-for-ncc.svg"
          alt="Javascript">
   </a>
 </p>
